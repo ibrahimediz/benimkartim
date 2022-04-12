@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.blueGrey[800],
         ),
         body: Container(
-          color: Colors.blueGrey[800],
+          color: Colors.blueGrey[900],
           child: Center(
             child: Image(
               image: AssetImage('images/resim2222.jpg'),
